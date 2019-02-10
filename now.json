@@ -1,7 +1,4 @@
 {
-"alias": ["my-vacation-calendar-website.now.sh"],
  "version": 2,
- "github": {
-    "autoAlias": false
-  }
+ "alias": ["my-vacation-calendar-website.now.sh"]
 }
