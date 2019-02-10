@@ -1,6 +1,6 @@
 {
-"alias": ["my-vacation-calendar-website.com"],
- "version": 0.1,
+"alias": ["my-vacation-calendar-website.now.sh"],
+ "version": 2,
  "github": {
     "autoAlias": false
   }
